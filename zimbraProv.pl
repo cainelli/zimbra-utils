@@ -1,6 +1,5 @@
-""" Requires: perl-LDAP
-Script for migrating new accounts from other zimbra system
-"""
+# Requires: perl-LDAP
+#Script for migrating new accounts from other zimbra system
 #!/usr/bin/perl
 use warnings;
 use strict;
